@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>eFootball Tournament 2025</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: black;
+      color: white;
+      margin: 0;
+    }
+    header {
+      background-color: black;
+      padding: 20px;
+      text-align: center;
+    }
+    header nav a {
+      color: gold;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    header .cta-button {
+      background-color: gold;
+      color: black;
+      padding: 10px 20px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+    header .cta-button:hover {
+      background-color: black;
+      color: gold;
+    }
+    section {
+      padding: 50px 20px;
+      text-align: center;
+    }
+    .button {
+      background-color: gold;
+      color: black;
+      padding: 15px 30px;
+      border-radius: 5px;
+      font-size: 16px;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    .button:hover {
+      background-color: black;
+      color: gold;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1 style="color: gold;">eFootball Tournament 2025</h1>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Tournament Details</a>
+    <a href="#">Register</a>
+    <a href="#">Prizes</a>
+    <a href="#">Schedule</a>
+    <a href="#">Contact Us</a>
+  </nav>
+  <a href="#register" class="cta-button">Register Now</a>
+</header>
+
+<section>
+  <h2 style="color: gold;">Tournament Overview</h2>
+  <p>Get ready to compete in the eFootball Tournament of the year! Sign up today and join the action.</p>
+  <a href="#register" class="button">Learn More</a>
+</section>
+
+<section>
+  <h2 style="color: gold;">Prize Pool</h2>
+  <p>First place: $5000, Second place: $3000, Third place: $1000</p>
+  <a href="#schedule" class="button">See Full Prizes</a>
+</section>
+
+<section>
+  <h2 style="color: gold;">Tournament Schedule</h2>
+  <p>Registration Deadline: March 1, 2025</p>
+  <a href="#schedule" class="button">Download Schedule</a>
+</section>
+
+<footer>
+  <p style="color: gold;">Contact us: support@efootball.com | Follow us: <a href="#">Instagram</a> | <a href="#">Twitter</a> | <a href="#">Facebook</a></p>
+</footer>
+
+</body>
+</html>
